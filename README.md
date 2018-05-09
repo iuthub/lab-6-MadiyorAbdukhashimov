@@ -10,6 +10,6 @@ You will practice your SQL skills and also implement a web page which dynamicall
 
 ### Student Details:
 
-- **Student ID**: your student id
-- **Student Name**: your name
+- **Student ID**: U1610131
+- **Student Name**: Madiyor Abdukhashimov
 - **Section Number**: your section number
